@@ -1,0 +1,16 @@
+## 25. Exercício de revisão — Sistema de atendimento
+
+Desenvolva individualmente uma versão funcional.
+
+Checklist:
+
+- [ ] Criar `Paciente`;
+- [ ] Criar `Node`;
+- [ ] Criar `FilaAtendimento`;
+- [ ] Implementar `adicionar()`;
+- [ ] Implementar `atender()`;
+- [ ] Implementar `listar()`;
+- [ ] Implementar `esta_vazia()`;
+- [ ] Implementar `tamanho()`;
+- [ ] Testar pelo menos cinco pacientes;
+- [ ] Documentar um erro encontrado e sua correção.
