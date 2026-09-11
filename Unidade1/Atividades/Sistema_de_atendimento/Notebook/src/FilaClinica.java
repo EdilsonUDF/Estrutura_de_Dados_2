@@ -22,10 +22,8 @@ public class FilaClinica {
             // Se o primeiro não for prioritário,
             // o novo paciente entra antes dele.
             if (!inicio.paciente.prioridade) {
-
                 novo.proximo = inicio;
                 inicio = novo;
-
                 return;
             }
 
