@@ -58,7 +58,8 @@ amizades = {
 
 # 4. Passo a passo: desenhe o grafo
 
-<img width="1032" height="727" alt="image" src="https://github.com/user-attachments/assets/87825abd-d181-464b-9721-7833e6529695" />
+[<img width="1032" height="727" alt="image" src="https://github.com/user-attachments/assets/87825abd-d181-464b-9721-7833e6529695" />
+](https://github.com/EdilsonUDF/Estrutura_de_Dados_2/blob/main/Unidade3/Grafo/grafo_rede.png)
 
 1. Crie um vértice para cada usuário.
 2. Identifique os vértices com os nomes ou códigos dos usuários.
@@ -119,27 +120,6 @@ Os usuários com o maior grau são:
 Como cada amizade é representada por uma aresta não direcionada, cada conexão deve ser contada apenas uma vez.
 
 # 7. Passo a passo: calcule a densidade
-
-A densidade de um grafo não direcionado simples é calculada pela fórmula:
-
-\[
-D = \frac{2E}{V(V-1)}
-\]
-
-Onde:
-
-- \(E\) representa o número de arestas.
-- \(V\) representa o número de vértices.
-
-Substituindo os valores:
-
-\[
-D = \frac{2 \times 61}{23 \times 22}
-\]
-
-\[
-D = \frac{122}{506} \approx 0{,}2411
-\]
 
 - **Densidade decimal:** 0,2411
 - **Densidade percentual:** 24,11%
