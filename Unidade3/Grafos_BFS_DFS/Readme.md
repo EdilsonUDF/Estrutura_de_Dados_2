@@ -1,4 +1,3 @@
-<img width="919" height="743" alt="image" src="https://github.com/user-attachments/assets/489cdabc-0944-4a89-a1f4-a7e41b9065f2" /># Material do Estudante — Grafos, BFS e DFS
 
 **Disciplina:** Estrutura de Dados II — Ciência da Computação
 
@@ -60,6 +59,8 @@ O grafo de conexões implementado é **não direcionado** e conta com **7 vérti
 * **Comportamento sob Bloqueio:** Ao interromper a via principal Goiânia-São Paulo, o sistema força a busca de rotas alternativas (desviando, por exemplo, por Cuiabá-Curitiba ou via Belo Horizonte-Rio de Janeiro), evidenciando a tolerância a falhas da rede geográfica projetada.
 
 ## 6. Diagrama do grafo e evidências dos testes.
+https://colab.research.google.com/drive/1MQhojZsyRH9LkQbrbyOjogZ7f665hBcX?usp=sharing
+<img width="919" height="743" alt="image" src="https://github.com/user-attachments/assets/489cdabc-0944-4a89-a1f4-a7e41b9065f2" /># Material do Estudante — Grafos, BFS e DFS
 
 ## 7. Questões para reflexão
 
